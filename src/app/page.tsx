@@ -48,7 +48,7 @@ export default function Home() {
         <div className="mt-8 md:mt-0 ml-10 md:w-1/2">
           <h2 className="text-4xl font-bold">About</h2>
           <p className="mt-4 text-gray-600">
-            Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard since the 1500s.
+            Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard since the 1500s.
           </p>
           <button className="mt-6 px-6 py-2 bg-black text-white hover:bg-gray-700">
             Read More →
