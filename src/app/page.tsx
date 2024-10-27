@@ -1,6 +1,5 @@
 // page.tsx
 import Image from "next/image";
-import link from "next/image";
 
 
 export default function Home() {
